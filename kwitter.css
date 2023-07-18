@@ -79,6 +79,23 @@ background-color: #4b4b87;
 	margin-top: 15px;
 	width: 50%; 
 }
+#send_message_box
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+#send_message_box label
+{
+	color: black;
+}
+#send_message_box #msg
+{
+	width: 80%;
+}
+#send_message_box button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
 .color_white
 {
 	color: white
